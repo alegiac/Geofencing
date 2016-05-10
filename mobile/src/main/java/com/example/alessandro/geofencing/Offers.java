@@ -50,7 +50,7 @@ public class Offers extends AppCompatActivity
             R.drawable.sfigmo_omrom_m6
     };
     public static final String[] oldprices = new String[] {
-            "€ 9,80", "€ 6,40", "€ 11,90", "€ 9,20", "€ 12,70", "€ 8,90", "€ 1,20", "€ 39,00", "€ 5,80", "€ 144,00"
+            "<strike>€ 9,80</strike>", "€ 6,40", "€ 11,90", "€ 9,20", "€ 12,70", "€ 8,90", "€ 1,20", "€ 39,00", "€ 5,80", "€ 144,00"
     };
     public static final String[] newprices = new String[] {
             "€ 6,90", "€ 4,80", "€ 9,50", "€ 6,50", "€ 7,65", "€ 6,90", "€ 0,45", "€ 30,90", "€ 4,30", "€ 109,00"
